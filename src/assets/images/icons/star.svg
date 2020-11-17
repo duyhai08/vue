@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="33px" viewBox="0 0 32 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <g id="Admin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3">
+            <g id="Group" transform="translate(1.000000, 1.000956)">
+                <g id="icon-star-copy" transform="translate(2.000000, 2.001912)" fill-rule="nonzero">
+                    <g id="mdi-star-copy">
+                        <rect id="ViewBox" x="0" y="0" width="26.1953488" height="25.6244742"></rect>
+                        <polygon id="Icon-Path" stroke="#DAB868" points="13.0976744 18.4389446 19.8429767 22.4214149 18.0529612 14.9155793 24.0124031 9.86542256 16.1647132 9.20345698 13.0976744 2.13537285 10.0306357 9.20345698 2.18294574 9.86542256 8.13147287 14.9155793 6.35237209 22.4214149"></polygon>
+                    </g>
+                </g>
+                <ellipse id="Oval" stroke="#DAB868" cx="15" cy="15.0143403" rx="14.5" ry="14.5143403"></ellipse>
+            </g>
+            <rect id="Rectangle" x="0" y="0" width="32" height="32.0305927"></rect>
+        </g>
+    </g>
+</svg>

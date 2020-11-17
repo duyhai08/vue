@@ -1,0 +1,280 @@
+
+.tag-vip-detail {
+  position: absolute;
+  width: 32px;
+  height: 36px;
+}
+
+.post__detail-thumbnail-detail {
+  flex: 2;
+  margin-right: 2%;
+  float: left;
+}
+
+#data-list-thumb-view .vs-con-table .vs-table {
+  border-collapse: separate;
+  border-spacing: 0 0.3rem !important;
+  /* border: red; */
+}
+
+.td3 {
+  padding-bottom: 20px;
+}
+
+.d-flex {
+  display: -ms-flexbox !important;
+  display: flex !important;
+}
+
+.justify-content-between {
+  -ms-flex-pack: justify !important;
+  justify-content: space-between !important;
+}
+
+.img-container-detail {
+  width: 55%;
+  float:left;
+}
+
+.td.vs-table--td.img-container.col-width-2.post__detail.d-flex {
+  padding-left: 12px;
+}
+
+.content .post .col-width-3 {
+  width: 20%;
+  padding-left: 12px;
+}
+
+.mb-2, .my-2 {
+  margin-bottom: .5rem !important;
+}
+
+.content .post .btn {
+  font-size: 12.25px !important;
+}
+
+.btn-purple, .bg-purple, .purple {
+  background-color: #993393 !important;
+}
+
+.btn:not(:disabled):not(.disabled) {
+  cursor: pointer;
+}
+
+.section .btn {
+  line-height: 1.15;
+  font-size: 14px;
+}
+
+.text-white {
+  color: #fff !important;
+}
+.infoview {
+  padding-left: 4%;
+  float: left;
+}
+.imgicon {
+  max-width: 132px;
+}
+.lstbutton {
+  top: 10px;
+  width: 150px;
+  float: left;
+  right: 13px;
+  position: absolute;
+}
+.btnfirt {
+  //overflow: auto;
+  background: #55bce2 !important;
+}
+.btnlast {
+  margin-top: 2%;
+  //overflow: auto;
+  background: #55bce2 !important;
+}
+.mb-8-detail{
+    height:150px
+}
+.newfeed {
+  width: 40%;
+  float: left;
+  color: #993393 !important;
+  font-weight: 600;
+}
+.process {
+  float: left;
+  width: 30%;
+  position: relative;
+  text-align: center;
+  top: -5px;
+}
+.status-process {
+  float: left;
+  width: 30%;
+  top: 2px !important;
+  position: relative !important;
+  text-align: center !important;
+}
+.head-collapse-item {
+  height: 37px;
+  padding-top: 10px;
+}
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  color: #212529;
+  text-align: center;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: .25rem;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.con-content--item {
+  padding-top: 0 !important;
+}
+.collapse-main {
+}
+vs-collapse-item open-item {
+  max-height: 441px;
+}
+.w-part-process {
+  width: 55% !important;
+  border-radius: 0.25rem !important;
+  height: 28px;
+  display: inline-block;
+  padding: 3px !important;
+  color: #d16d26 !important;
+  background-color: #fee1b4 !important;
+}
+.w-part {
+  width: 55% !important;
+  border-radius: 0.25rem !important;
+  padding: 3px !important;
+  height: 28px;
+  display: inline-block;
+  background: #cdf4c3 !important;
+  color: #3c7e10;
+}
+.vs-table--thead th {
+  background: #e5e7f3;
+  height: 28px;
+}
+.iconvip{
+    float: left;
+}
+.lbl-text-vip {
+  padding-left: 2%;
+  position: relative;
+  top: 7px;
+}
+.mt-base {
+  margin-top: 0rem !important;
+}
+.vs-collapse-item.open-item .con-content--item {
+      max-height: unset !important;
+}
+// Set color header
+.head {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.head-vip1 {
+  color: rgb(153, 51, 147);
+}
+
+.head-vip2 {
+  color: rgb(221, 140, 67);
+}
+
+.head-vip3 {
+  color: rgb(177, 135, 52);
+}
+
+.head-normal {
+  font-weight: bold;
+  color: rgb(43, 43, 43);
+  font-size: 13px;
+}
+// Set color button
+.btn-type {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+
+.btn-type-vip1 {
+  background-color: rgb(153, 51, 147) !important;
+}
+
+.btn-type-vip2 {
+  background-color: rgb(221, 140, 67) !important;
+}
+
+.btn-type-vip3 {
+  background-color: rgb(177, 135, 52) !important;
+}
+
+.btn-type-normal {
+  background-color: #787878 !important;
+}
+.post-body, .text-light-default {
+  font-size: 12px;
+}
+.text-icon {
+  position: relative;
+  top: -2px;
+}
+h3 {
+  font-weight: bold;
+  font-size: 18px;
+  padding-left: 4%;
+}
+
+.lbl-view-detail {
+  padding-left: 20%;
+  top: -5px;
+}
+#underline {
+  text-decoration-line: underline;
+}
+.info-oder {
+  width: 50%;
+  padding-left: 2%;
+  padding-bottom: 1%;
+}
+.vs-collapse-item--header {
+  font-size: 14px !important;
+}
+.lst-action {
+  position: relative;
+
+  @media screen and (min-height: 800px) {
+    left: 400px;
+  }
+
+  left: 180px;
+}
+.lbl-order-id {
+  font-weight: bold;
+}
+.vs-popup--title {
+  text-align: center;
+}
+.con-vs-popup .vs-popup{
+    width: 900px !important;
+}
+.con-vs-popup .vs-popup--content {
+  font-size: 14px !important;
+}
+.vx-row > .vx-col {
+  padding-right: 0px;
+  padding-bottom: 5px;
+}

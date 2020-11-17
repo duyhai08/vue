@@ -1,0 +1,43 @@
+[
+  {
+    "full_name": "Nguyễn Hoàng Quyên",
+    "account_number": "098765432123456789",
+    "branch_name": "Vietcombank - Chi nhánh Hà Thành",
+    "status": "Đã xác thực",
+    "create_date": "20/11/2020",
+    "is_default": "1"
+  },
+  {
+    "full_name": "Vũ Hoàng Duy",
+    "account_number": "888888888888888",
+    "branch_name": "Techcombank - Chi nhánh Hà Thành",
+    "status": "Chưa xác thực",
+    "create_date": "20/11/2022",
+    "is_default": "0"
+  },
+  {
+    "full_name": "Nguyễn Hoàng Quyên",
+    "account_number": "098765432123456789",
+    "branch_name": "Vietcombank - Chi nhánh Hà Thành",
+    "status": "Đã xác thực",
+    "create_date": "20/11/2020",
+    "is_default": "0"
+  },
+  {
+    "full_name": "Nguyễn Hoàng Quyên",
+    "account_number": "098765432123456789",
+    "branch_name": "Vietcombank - Chi nhánh Hà Thành",
+    "status": "Đã xác thực",
+    "create_date": "20/11/2020",
+    "is_default" :  "0"
+  },
+  {
+    "full_name": "Nguyễn Hoàng Quyên",
+    "account_number": "098765432123456789",
+    "branch_name": "Vietcombank - Chi nhánh Hà Thành",
+    "status": "Đã xác thực",
+    "create_date": "20/11/2020",
+    "is_default": "0"
+  }
+
+]

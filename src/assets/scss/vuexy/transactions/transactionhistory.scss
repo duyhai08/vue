@@ -1,0 +1,63 @@
+#page-user-list {
+  .user-list-filters {
+    .vs__actions {
+      position: absolute;
+      right: 0;
+      top: 50%;
+      transform: translateY(-58%);
+    }
+  }
+
+  .ag-body-horizontal-scroll-viewport {
+     overflow-x: hidden !important; 
+  }
+}
+.firt-row {
+  padding-bottom: 10px;
+}
+.vx-card .vx-card__header {
+  padding: 0.75rem 1.2rem 0 !important;
+}
+.vx-card__title {
+  padding-left: 0.5% !important;
+}
+.vx-card .vx-card__collapsible-content .vx-card__body {
+  padding: 1rem !important;
+}
+h4, .h4, .flatpickr-input, .vs__search, .vs__search:focus, .vs-con-dropdown, .vs-input--input.normal, .vs-input--placeholder  {
+  font-size: 14px !important;
+}
+.vx-card .vx-card__header .vx-card__actions .vx-card__action-buttons {
+  display: none !important;
+}
+.vx-row > .vx-col {
+  @media screen and (min-height: 800px) {
+    padding: 0 1.65rem !important;
+  }
+}
+.toDate, .fromDate {
+  max-width: 100%;
+}
+.p-4 {
+  padding: 0.7rem !important;
+  }
+.rounded-full {
+  border-radius: 9px !important;
+  }
+.cursor {
+  @media screen and (min-height: 800px) {
+    position: absolute;
+    right: -6%;
+  }
+  position: absolute;
+  right: 0%;
+}
+.mb-8 {
+  margin-bottom: 0.5rem !important;
+}
+.p-6 {
+  padding: 0.5rem !important;
+}
+.my-4 {
+  margin-top: 0rem !important;
+  }
